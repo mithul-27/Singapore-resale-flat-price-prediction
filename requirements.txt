@@ -1,0 +1,7 @@
+streamlit
+pickle
+lzma
+numpy
+streamlit_option_menu
+PIL
+base64
