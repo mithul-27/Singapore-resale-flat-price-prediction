@@ -28,8 +28,8 @@ The project follows the standard data science pipeline, which includes:
 
 ## Model Used
 
--Comparison were made with different machine learning algorithms to get the best accuracy.
--The model with highest accuracy is chosen.
+- Comparison were made with different machine learning algorithms to get the best accuracy.
+- The model with highest accuracy is chosen.
 - **Random Forest:** An ensemble model that uses multiple decision trees to improve prediction accuracy.
 
 ## Results
