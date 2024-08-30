@@ -40,8 +40,5 @@ The performance of the models was evaluated using metrics such as Mean Absolute 
 
 This project demonstrates the application of machine learning techniques to predict resale flat prices in Singapore. The predictive model can be used by potential buyers, sellers, and policymakers to make informed decisions.
 
-![Screenshot (22)](https://github.com/user-attachments/assets/5428b211-7464-4202-8cbb-ceda03c7c0f3)
-
-![Screenshot (23)](https://github.com/user-attachments/assets/39cd3479-5fc8-4119-a6ee-e6f50a4bd720)
 
 
